@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "06e9c18c-c28c-44b4-9d25-9544279e5113",
+    "appKeys": {},
+    "longName": "Name",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Name",
+    "companyName": "jcalderong",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
