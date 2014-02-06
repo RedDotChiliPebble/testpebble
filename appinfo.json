@@ -2,17 +2,24 @@
     "versionLabel": "1.0",
     "uuid": "06e9c18c-c28c-44b4-9d25-9544279e5113",
     "appKeys": {},
-    "longName": "Name",
+    "longName": "Text",
     "versionCode": 1,
     "capabilities": [
         ""
     ],
-    "shortName": "Name",
-    "companyName": "jcalderong",
+    "shortName": "Text",
+    "companyName": "RedDotChilePebble",
     "watchapp": {
         "watchface": false
     },
     "resources": {
-        "media": []
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "icon_app",
+                "file": "images/LogoMenuPebble.png"
+            }
+        ]
     }
 }
